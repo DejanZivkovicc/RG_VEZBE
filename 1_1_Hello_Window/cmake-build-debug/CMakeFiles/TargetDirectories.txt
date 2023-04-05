@@ -1,0 +1,6 @@
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/CMakeFiles/1_1_Hello_Window.dir
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/kidebratzp/Desktop/RG/Vezbe/1_1_Hello_Window/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+0	156	1680695352340209312	libs/glad/CMakeFiles/glad.dir/src/glad.c.o	bec84fecf624ff8d
+157	239	1680695352424209262	libs/glad/libglad.a	649de6d7a3218d63
+0	321	1680695392908184790	CMakeFiles/1_1_Hello_Window.dir/main.cpp.o	c4e10a35d6eaf0d6
+321	474	1680695393060184698	1_1_Hello_Window	984b122ad1db3a67
+0	297	1680695423296166614	CMakeFiles/1_1_Hello_Window.dir/main.cpp.o	c4e10a35d6eaf0d6
+297	411	1680695423408166547	1_1_Hello_Window	984b122ad1db3a67
+0	304	1680695500572121061	CMakeFiles/1_1_Hello_Window.dir/main.cpp.o	c4e10a35d6eaf0d6
+304	401	1680695500668121007	1_1_Hello_Window	984b122ad1db3a67
+1	303	1680695511420114739	CMakeFiles/1_1_Hello_Window.dir/main.cpp.o	c4e10a35d6eaf0d6
+303	402	1680695511520114681	1_1_Hello_Window	984b122ad1db3a67
